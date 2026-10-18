@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 295" role="img" aria-label="Kodar e jalgratas">
+<g fill="none" stroke="#222927" stroke-linecap="round" stroke-linejoin="round"><circle cx="118" cy="186" r="78" stroke-width="11"/><circle cx="483" cy="186" r="78" stroke-width="11"/></g>
+<path d="M70 119 Q123 87 165 135 M431 122 Q487 94 532 143" fill="none" stroke="#222927" stroke-width="10" stroke-linecap="round"/>
+<path d="M118 186 L230 95 L305 186 Z M230 95 L351 95 L305 186 M351 95 L483 186" stroke="#232927" stroke-width="11" stroke-linejoin="round" fill="none"/>
+        <path d="M230 95 L273 95 L327 166 L305 186 Z" fill="none" stroke="#ff6935" stroke-width="13" stroke-linejoin="round"/>
+        <rect x="266" y="103" width="35" height="70" rx="7" transform="rotate(-35 266 103)" fill="#36413c"/><path d="M230 95 L216 65 M201 65 L246 65 M351 95 L361 62 M344 62 L388 62" stroke="#232927" stroke-width="10" stroke-linecap="round"/>
+<path d="M301 186 L323 203 L286 203" fill="none" stroke="#222927" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M195 61 L247 61" stroke="#222927" stroke-width="10" stroke-linecap="round"/>
+</svg>
